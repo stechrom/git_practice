@@ -1,1 +1,2 @@
-The first local git repository
+The first local git repository.
+And the second line appears here.
